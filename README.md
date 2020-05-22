@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+[サンプルファイル](#jump-there1)  　　　[正誤情報](#jump-there2)  　　　<a href="https://ryokokuga.github.io/SSCQC/Links">リンク集</a>
+<br/>
+<br/>
 
-You can use the [editor on GitHub](https://github.com/mitubayasi/SPEB/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img src="" width="600px">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+このページは、「最強の副業PDF出版：Amazonであなたの知識・経験を販売しよう！！」のサポートページです。
 
-### Markdown
+<img src="" width="120px">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="https://user-images.githubusercontent.com/62088244/76576777-7c6dc800-6506-11ea-9b86-0894fb827c7e.png" width="20px">&ensp;<a href="https://amzn.to/2UvBOIf" target="_blank">Amazon製品ページ</a>
 
-```markdown
-Syntax highlighted code block
+### 内容紹介
+みなさんが、普段使用しているPDFファイルが電子書籍として簡単に出版できることをご存知ですか？本書では、今一番シンプルに自分の「好き」や「得意」な分野の情報を電子書籍として発信する方法を丁寧に解説しています。  
 
-# Header 1
-## Header 2
-### Header 3
+【本書が対象とする読者】  
+  - 個人出版の副業に興味がある方  
+  - 自身の「好き」や「得意」を本にして出版をしてみたい方  
+  - 以前、電子書籍の作成にチャレンジしてみたけど挫折してしまった方  
 
-- Bulleted
-- List
+そんな、電子書籍の作成や出版にチェレンジしてみたい「すべての初心者」が対象です。本書で解説する「PDF出版」は、主にAmazonの個人出版サービスである「Kindle ダイレクト・パブリッシング (KDP)」を利用します。  
 
-1. Numbered
-2. List
+電子書籍の出版は、副業をはじめて行う初心者でも簡単にはじめられ、収入も自身の努力次第です。また、お金を稼ぐだけでなく、一冊の本を書き上げることで、そのテーマについてプロフェッショナルに近づく事ができるいわば「最強の副業」です。知識ゼロからでも必ず読み進められるので、これから何か副業をはじめたい方や個人出版に興味がある方に最適の一冊になっています。  
 
-**Bold** and _Italic_ and `Code` text
+### 目次
 
-[Link](url) and ![Image](src)
-```
+Chapter-1. 
+  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### <a name="jump-there1">サンプルファイル</a>
+  
+サンプルファイルはZip形式にて圧縮しております。 
 
-### Jekyll Themes
+<img src="https://user-images.githubusercontent.com/62088244/76489282-36aff180-646b-11ea-977c-f4ed77d5b8d8.png" width="25px">&ensp;[ダウンロード](https://.zip)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mitubayasi/SPEB/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- サンプルファイルは本書の学習用途に限って使用を許諾されており、用途外の使用や無断複製、再配布等は禁じられています。
 
-### Support or Contact
+- サンプルファイルに関するいかなる運用結果について一切の責任を負いません。あらかじめご了承ください。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### <a name="jump-there2">正誤情報</a>
+正誤が見つかり次第掲載いたします。  
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
