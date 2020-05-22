@@ -1,14 +1,9 @@
 [Toc-Deleterのダウンロード](#jump-there1)  　　　[正誤情報](#jump-there2)  
 <br/>
 <br/>
+このページは、「最強の副業PDF出版：Amazonであなたの知識・経験を販売しよう！！」のサポートページです。  
 
-<img src="" width="600px">
-
-このページは、「最強の副業PDF出版：Amazonであなたの知識・経験を販売しよう！！」のサポートページです。
-
-<img src="" width="120px">
-
-<img src="https://user-images.githubusercontent.com/62088244/76576777-7c6dc800-6506-11ea-9b86-0894fb827c7e.png" width="20px">&ensp;<a href="https://amzn.to/2UvBOIf" target="_blank">Amazon製品ページ</a>
+<img src="https://user-images.githubusercontent.com/62088244/76576777-7c6dc800-6506-11ea-9b86-0894fb827c7e.png" width="20px">&ensp;<a href="https://www.amazon.co.jp/" target="_blank">Amazon製品ページ</a>
 
 ### 内容紹介
 みなさんが、普段使用しているPDFファイルが電子書籍として簡単に出版できることをご存知ですか？本書では、今一番シンプルに自分の「好き」や「得意」な分野の情報を電子書籍として発信する方法を丁寧に解説しています。  
@@ -61,7 +56,7 @@ Chapter 6 付録
   
 AmazonのKindle Comic Creatorで作成した目次ファイルの編集を補助するソフトウエアです。目次ファイル「toc.ncx」内の不要な目次項目（Page-xxx）を一括で削除することができます。ファイルはZip形式にて圧縮しております。 
 
-<img src="https://user-images.githubusercontent.com/62088244/76489282-36aff180-646b-11ea-977c-f4ed77d5b8d8.png" width="25px">&ensp;[ダウンロード](https://.zip)
+<img src="https://user-images.githubusercontent.com/62088244/76489282-36aff180-646b-11ea-977c-f4ed77d5b8d8.png" width="25px">&ensp;[ダウンロード](https://github.com/mitubayasi/SPEB/raw/master/Toc-Deleter.zip)
 
 - ご使用前に必ず、ダウンロードしたファイルに内包されているreadme.txtをお読みください。
 
