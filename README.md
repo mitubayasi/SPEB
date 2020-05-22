@@ -1,9 +1,6 @@
 [Toc-Deleterのダウンロード](#jump-there1)  　　　[正誤情報](#jump-there2)  
 <br/>
-<br/>
 このページは、「最強の副業PDF出版：Amazonであなたの知識・経験を販売しよう！！」のサポートページです。  
-
-<img src="https://user-images.githubusercontent.com/62088244/76576777-7c6dc800-6506-11ea-9b86-0894fb827c7e.png" width="20px">&ensp;<a href="https://www.amazon.co.jp/" target="_blank">Amazon製品ページ</a>
 
 ### 内容紹介
 みなさんが、普段使用しているPDFファイルが電子書籍として簡単に出版できることをご存知ですか？本書では、今一番シンプルに自分の「好き」や「得意」な分野の情報を電子書籍として発信する方法を丁寧に解説しています。  
