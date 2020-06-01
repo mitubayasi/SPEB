@@ -3,7 +3,7 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/65753345/83375456-e44af500-a409-11ea-9466-92ffb5ef01f0.jpg" width="120px">
 
-<img src="https://user-images.githubusercontent.com/62088244/76576777-7c6dc800-6506-11ea-9b86-0894fb827c7e.png" width="20px">&ensp;<a href="https://www.amazon.co.jp/" target="_blank">Amazon製品ページ</a>
+<img src="https://user-images.githubusercontent.com/62088244/76576777-7c6dc800-6506-11ea-9b86-0894fb827c7e.png" width="20px">&ensp;<a href="https://www.amazon.co.jp/dp/B089GJ7GXQ" target="_blank">Amazon製品ページ</a>
 <br/>
 
 ## <img src="https://user-images.githubusercontent.com/65753345/83377381-62aa9580-a410-11ea-9313-8d4deca07672.png" width="20px">&ensp;内容紹介
