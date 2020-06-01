@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/62088244/76576777-7c6dc800-6506-11ea-9b86-0894fb827c7e.png" width="20px">&ensp;<a href="https://www.amazon.co.jp/" target="_blank">Amazon製品ページ</a>
 <br/>
 
-### 内容紹介
+## 内容紹介
 本書は、副業として「電子書籍の個人出版」を提案するものです。電子書籍を出版する際に費用は一切かからないので、リスクゼロでスタートでき、書籍が売れれば売れるほど印税を得ることができます。  
 
 【本書が対象とする読者】  
@@ -58,7 +58,7 @@ Chapter 6 付録
 ※ 本書は、Kindleの無料アプリ (Kindle for iOS、Kindle for Android、Kindle for PC、Kindle for Mac)でのみご利用可能です。Kindle Paperwhiteではご利用いただけませんので、あらかじめご了承ください。  
 <br/>
 
-### サンプルファイル
+## サンプルファイル
 
 本書で使用するサンプルファイルは以下からダウンロードしてください。ファイルはZip形式にて圧縮しております。
 
@@ -76,14 +76,14 @@ Toc-Deleterは、AmazonのKindle Comic Creatorで作成した目次ファイル�
 - ダウンロードしたファイルに関するいかなる運用結果についても一切の責任を負いません。あらかじめご了承ください。  
 <br/>
 
-### EPUBビュアー
+## EPUBビュアー
 EPUB形式のファイルを閲覧することができます。以下のURLへアクセスしてEPUBファイルを開いてください。  
 
 <img src="https://user-images.githubusercontent.com/65753345/83375423-cbdada80-a409-11ea-904e-b87223f638e9.png" width="25px">&ensp;[EPUBビュアー](https://mitubayasi.github.io/SPEB/bibi/)
 <br/>
 <br/>
 
-### 正誤情報
+## 正誤情報
 正誤が見つかり次第掲載いたします。  
 <br/>
 <br/>
