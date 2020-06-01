@@ -52,7 +52,7 @@ Chapter 5 他のストアで販売する方法を学ぼう
 Chapter 6 付録  
 6-1： PDFの品質について知っておこう  
 6-2： 表紙を準備しよう  
-6-3： 固定レイアウト型に最適な画像とは？  	
+6-3： 固定レイアウト型に最適な画像とは？  
 6-4： プロモーションについて知っておこう  
 
 ※ 本書は、Kindleの無料アプリ (Kindle for iOS、Kindle for Android、Kindle for PC、Kindle for Mac)でのみご利用可能です。Kindle Paperwhiteではご利用いただけませんので、あらかじめご了承ください。  
