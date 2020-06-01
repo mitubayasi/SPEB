@@ -3,3 +3,5 @@ title: 絶対に稼げる！！電子書籍副業入門
 description: 書籍のサポートページへようこそ
 github:
   is_project_page: false
+gems:
+  - jekyll-sitemap
