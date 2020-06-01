@@ -77,7 +77,7 @@ Toc-Deleterは、AmazonのKindle Comic Creatorで作成した目次ファイル�
 <br/>
 
 ### EPUBビュアー
-Bibiを利用してEPUB形式のファイルを閲覧することができます。以下のURLへアクセスしてEPUBファイルを開いてください。  
+EPUB形式のファイルを閲覧することができます。以下のURLへアクセスしてEPUBファイルを開いてください。  
 
 <img src="https://user-images.githubusercontent.com/65753345/83375423-cbdada80-a409-11ea-904e-b87223f638e9.png" width="25px">&ensp;[EPUBビュアー](https://mitubayasi.github.io/SPEB/bibi/)
 <br/>
