@@ -81,6 +81,7 @@ EPUB形式のファイルを閲覧することができます。以下のURLへ�
 
 <img src="https://user-images.githubusercontent.com/65753345/83375423-cbdada80-a409-11ea-904e-b87223f638e9.png" width="25px">&ensp;[EPUBビュアー](https://mitubayasi.github.io/SPEB/bibi/)
 <br/>
+<br/>
 
 ### 正誤情報
 正誤が見つかり次第掲載いたします。  
