@@ -1,4 +1,6 @@
-
+[サンプルファイル](#jump-there1)  　　　[Toc-Deleter (目次編集ツール)](#jump-there2)  　　　[EPUBビュアー](#jump-there3) 　　　[正誤情報](#jump-there4)
+<br/>
+<br/>
 このページは、Amazonで販売中の「絶対に稼げる！！電子書籍副業入門」のサポートページです。  
 <br/>
 <img src="https://user-images.githubusercontent.com/65753345/83375456-e44af500-a409-11ea-9466-92ffb5ef01f0.jpg" width="120px">
@@ -58,14 +60,14 @@ Chapter 6 付録
 ※ 本書は、Kindleの無料アプリ (Kindle for iOS、Kindle for Android、Kindle for PC、Kindle for Mac)でのみご利用可能です。Kindle Paperwhiteではご利用いただけませんので、あらかじめご了承ください。  
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/65753345/83377381-62aa9580-a410-11ea-9313-8d4deca07672.png" width="20px">&ensp;サンプルファイル
+## <img src="https://user-images.githubusercontent.com/65753345/83377381-62aa9580-a410-11ea-9313-8d4deca07672.png" width="20px">&ensp;<a name="jump-there1">サンプルファイル</a>
 
 本書で使用するサンプルファイルは以下からダウンロードしてください。ファイルはZip形式にて圧縮しております。
 
 <img src="https://user-images.githubusercontent.com/62088244/76489282-36aff180-646b-11ea-977c-f4ed77d5b8d8.png" width="25px">&ensp;[ダウンロード](https://github.com/mitubayasi/SPEB/raw/master/SAMPLE.zip)
 <br/>
 
-### Toc-Deleterのダウンロード
+### <a name="jump-there2">Toc-Deleterのダウンロード</a>
   
 Toc-Deleterは、AmazonのKindle Comic Creatorで作成した目次ファイルの編集を補助するソフトウエアです。目次ファイル「toc.ncx」内の不要な目次項目（Page-xxx）を一括で削除することができます。ファイルはZip形式にて圧縮しております。 
 
@@ -76,14 +78,14 @@ Toc-Deleterは、AmazonのKindle Comic Creatorで作成した目次ファイル�
 - ダウンロードしたファイルに関するいかなる運用結果についても一切の責任を負いません。あらかじめご了承ください。  
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/65753345/83377381-62aa9580-a410-11ea-9313-8d4deca07672.png" width="20px">&ensp;EPUBビュアー
+## <img src="https://user-images.githubusercontent.com/65753345/83377381-62aa9580-a410-11ea-9313-8d4deca07672.png" width="20px">&ensp;<a name="jump-there3">EPUBビュアー</a>
 EPUB形式のファイルを閲覧することができます。以下のURLへアクセスしてEPUBファイルを開いてください。  
 
 <img src="https://user-images.githubusercontent.com/65753345/83375423-cbdada80-a409-11ea-904e-b87223f638e9.png" width="25px">&ensp;[EPUBビュアー](https://mitubayasi.github.io/SPEB/bibi/)
 <br/>
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/65753345/83377381-62aa9580-a410-11ea-9313-8d4deca07672.png" width="20px">&ensp;正誤情報
+## <img src="https://user-images.githubusercontent.com/65753345/83377381-62aa9580-a410-11ea-9313-8d4deca07672.png" width="20px">&ensp;<a name="jump-there4">正誤情報</a>
 正誤が見つかり次第掲載いたします。  
 <br/>
 <br/>
