@@ -66,6 +66,7 @@ Chapter 6 付録
 
 <img src="https://user-images.githubusercontent.com/62088244/76489282-36aff180-646b-11ea-977c-f4ed77d5b8d8.png" width="25px">&ensp;[ダウンロード](https://github.com/mitubayasi/SPEB/raw/master/SAMPLE.zip)
 <br/>
+<br/>
 
 ### <img src="https://user-images.githubusercontent.com/65753345/83582684-20529700-a57d-11ea-8f98-dbddb23b77d6.png" width="25px">&ensp;<a name="jump-there2">Toc-Deleterのダウンロード</a>
   
